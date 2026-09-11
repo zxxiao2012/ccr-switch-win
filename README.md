@@ -1,6 +1,10 @@
 # CCR Switch (Windows 版)
 
-[macOS 版](../ccr-switch) 的 Windows 移植：C# WinForms 系统托盘应用，双栈管理 **ccr (claude-code-router v1.0.73)** 供应商与 **Claude Code 直连**配置。核心逻辑（`CCRSwitch.Core`）跨平台，可在 macOS/Linux 上运行全部单元测试。
+[macOS 版](https://github.com/zxxiao2012/ccr-switch) 的 Windows 移植：C# WinForms 系统托盘应用，双栈管理 **ccr (claude-code-router v1.0.73)** 供应商与 **Claude Code 直连**配置。核心逻辑（`CCRSwitch.Core`）跨平台，可在 macOS/Linux 上运行全部单元测试。
+
+## 许可证
+
+[MIT](LICENSE)
 
 ## 功能（与 mac 版对齐）
 
